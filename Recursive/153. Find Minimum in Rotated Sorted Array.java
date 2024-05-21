@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class app {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
